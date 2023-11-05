@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnibhu-1902&" alt="agnibhu-1902" /></p>
 
-[![Agnibhu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agnibhu-1902&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Agnibhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agnibhu-1902&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
